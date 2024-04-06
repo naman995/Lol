@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "fab fa-facebook",
+    "text": "Facebook",
+    "link": "https://www.facebook.com/"
+  },
+  {
+    "icon": "fab fa-twitter",
+    "text": "Twitter",
+    "link": "https://twitter.com/"
+  },
+  {
+    "icon": "fab fa-instagram",
+    "text": "Instagram",
+    "link": "https://www.instagram.com/"
+  },
+  {
+    "icon": "fab fa-reddit",
+    "text": "Reddit",
+    "link": ""
+  }
+]
